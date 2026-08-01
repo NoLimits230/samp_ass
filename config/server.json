@@ -1,0 +1,9 @@
+{
+  "_comment": "Edit file ini untuk mengubah konfigurasi server. Tidak perlu rebuild APK.",
+  "host": "43.153.223.35",
+  "port": "7777",
+  "password": "7333",
+  "server_name": "InMay City Roleplay",
+  "discord": "dsc.gg/sampInMay",
+  "website": "inmay.id"
+}
